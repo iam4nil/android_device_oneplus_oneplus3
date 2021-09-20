@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/conquer_oneplus3.mk
+
+COMMON_LUNCH_CHOICES := \
+    conquer_oneplus3-user \
+    conquer_oneplus3-userdebug \
+    conquer_oneplus3-eng
