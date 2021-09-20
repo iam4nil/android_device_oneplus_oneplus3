@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/scorpion_oneplus3.mk
+    $(LOCAL_DIR)/conquer_oneplus3.mk
